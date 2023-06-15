@@ -1,6 +1,6 @@
 import java.util.*;
 
-class GuessNumber
+class Number_Guessing_Game
 {
     public static void main(String args[])
     {
